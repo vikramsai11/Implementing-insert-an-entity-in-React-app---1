@@ -1,6 +1,5 @@
 // src/components/BookCard.jsx
 
-import React from "react";
 import "./BookCard.css"; // Import the CSS for styling
 
 const BookCard = ({ book }) => {
